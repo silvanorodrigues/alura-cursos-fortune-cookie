@@ -18,3 +18,4 @@ spec:
         image: rafaelvzago/fortune-frontend:1.0
         ports:
         - containerPort: 80
+        

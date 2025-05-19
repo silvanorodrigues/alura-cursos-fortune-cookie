@@ -21,3 +21,4 @@ spec:
         env:
         - name: API_URL
           value: "https://api.adviceslip.com/advice"
+          
